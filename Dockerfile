@@ -1,4 +1,4 @@
-ARG BUILD_FROM=alpine:latest
+ARG BUILD_FROM=arm64v8/alpine
 
 FROM $BUILD_FROM
 
